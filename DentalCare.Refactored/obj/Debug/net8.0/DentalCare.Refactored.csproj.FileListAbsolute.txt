@@ -1,0 +1,14 @@
+C:\Users\munoz\Downloads\DentaCare\DentalCare.Refactored\obj\Debug\net8.0\DentalCare.Refactored.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\munoz\Downloads\DentaCare\DentalCare.Refactored\obj\Debug\net8.0\DentalCare.Refactored.AssemblyInfoInputs.cache
+C:\Users\munoz\Downloads\DentaCare\DentalCare.Refactored\obj\Debug\net8.0\DentalCare.Refactored.AssemblyInfo.cs
+C:\Users\munoz\Downloads\DentaCare\DentalCare.Refactored\obj\Debug\net8.0\DentalCare.Refactored.csproj.CoreCompileInputs.cache
+C:\Users\munoz\Downloads\DentaCare\DentalCare.Refactored\bin\Debug\net8.0\DentalCare.Refactored.exe
+C:\Users\munoz\Downloads\DentaCare\DentalCare.Refactored\bin\Debug\net8.0\DentalCare.Refactored.deps.json
+C:\Users\munoz\Downloads\DentaCare\DentalCare.Refactored\bin\Debug\net8.0\DentalCare.Refactored.runtimeconfig.json
+C:\Users\munoz\Downloads\DentaCare\DentalCare.Refactored\bin\Debug\net8.0\DentalCare.Refactored.dll
+C:\Users\munoz\Downloads\DentaCare\DentalCare.Refactored\bin\Debug\net8.0\DentalCare.Refactored.pdb
+C:\Users\munoz\Downloads\DentaCare\DentalCare.Refactored\obj\Debug\net8.0\DentalCare.Refactored.dll
+C:\Users\munoz\Downloads\DentaCare\DentalCare.Refactored\obj\Debug\net8.0\refint\DentalCare.Refactored.dll
+C:\Users\munoz\Downloads\DentaCare\DentalCare.Refactored\obj\Debug\net8.0\DentalCare.Refactored.pdb
+C:\Users\munoz\Downloads\DentaCare\DentalCare.Refactored\obj\Debug\net8.0\DentalCare.Refactored.genruntimeconfig.cache
+C:\Users\munoz\Downloads\DentaCare\DentalCare.Refactored\obj\Debug\net8.0\ref\DentalCare.Refactored.dll
